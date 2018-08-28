@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'jegybazar-reload ez egy újrakezdés';
+  title = 'jegybazar-reload ez egy újrakezdés megint';
 }
